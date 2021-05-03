@@ -1,0 +1,150 @@
+body {
+ background-image: url("images/MusicBG.jpg");
+ background-size: 1950px 1000px;
+ 
+}
+
+#h2{
+	align-content: center;
+	margin-top: 200px;
+	margin-left: 800px;
+	color: white;
+	font-family: Brush Script MT;
+	font-size: 70px;
+}
+
+
+
+#div1{
+	position: absolute;
+	align-content: center;
+	margin-left: 800px;
+	margin-top: 50px;
+}
+
+
+
+#font{
+	color:white;
+	font-size: 2px;
+	font-style: arial;
+}
+
+.buttonA{
+
+	background-color: white;
+  border: solid black;
+  color: black;
+  padding: 5px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  position: absolute;
+  align-content: center;
+  margin-left: 950px;
+  margin-top: 280px;
+}
+
+.buttonR {
+  background-color: white;
+  border: solid black;
+  color: black;
+  padding: 5px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  position: absolute;
+  align-content: center;
+  margin-left: 950px;
+  margin-top: 180px;
+}
+
+.buttonL {
+  background-color: white;
+  border: solid black;
+  color: black;
+  padding: 5px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  position: absolute;
+  align-content: center;
+  margin-left: 900px;
+  margin-top: 140px;
+}
+
+
+
+
+.buttonReg{
+  background-color: white;
+  border: solid black;
+  color: black;
+  padding: 5px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  position: absolute;
+  align-content: center;
+  margin-left: 900px;
+  margin-top: 190px;
+}
+
+.btn:hover {
+  background-color: black;
+  color: white;
+}
+
+
+p{
+  align-content: 100px 100px;
+}
+
+
+#logout_btn{
+  position: absolute;
+  left: 1700px;
+  top: 150px;
+  height:35px;
+  width: 100px;
+  background-color: white;
+  color: black;
+}
+#event_btn{
+  position: absolute;
+  left: 1600px;
+  top: 150px;
+  height:35px;
+  width: 100px;
+  background-color: white;
+  color: black;
+}
+#back_btn{
+  position: absolute;
+  left: 1700px;
+  top: 150px;
+  height:35px;
+  width: 100px;
+  background-color: white;
+  color: black;
+}
